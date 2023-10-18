@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@600&family=Poiret+One&display=swap');
+
+body {
+    background-color: ghostwhite;
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: violet;
+    font-family: 'Jost', sans-serif;
+    font-size: 2rem;
+}
+
+.main {
+    border: 2px solid grey; 
+    width: 55%; 
+    margin: 0 auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black; 
+    border-radius: 50%; 
+    margin: 1rem auto;
+}
+
+#cornflowerblue {
+    border-color: cornflowerblue;
+}
+
+#thistle {
+    border-color: thistle;
+}
+
+#orchid {
+    border-color: orchid;
+}
+
+.footer {
+    color: blueviolet;
+    font-family: 'Poiret One', sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+}
